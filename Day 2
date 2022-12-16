@@ -1,0 +1,30 @@
+
+
+
+
+
+What is full stack?
+What technology are available in the market to develop application
+What are roles and responsibilities of full stack developer
+
+Full stack=frontend development + backend development
+Frontend: user interface
+->client/user interact with software application using frontend
+Backend: the hidden part of our application
+When user perform some operation on frontend then backend logic will execute  to handle that operation
+The programmer who can develop frontend and backend of an application is called full stack web developer
+
+Server is a software which going run application
+
+        -github-code integration
+        -sonarqube-mistake and code quality checking
+        - junit-testing tool
+        -jmeter-performance testing tool
+        -jenkins-deployment software
+        -jira-project management tool
+                    
+
+
+
+
+===================================================================
